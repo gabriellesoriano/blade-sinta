@@ -1,0 +1,16 @@
+body {
+  background: #000000;
+  margin: 100px;
+  padding: auto;
+}
+
+h1 {
+  color: #FFFFFF;
+  font-family: 'Cousine', monospace;
+}
+
+p {
+  color: #FFFFFF;
+  font-family: 'Syne Mono', monospace;
+
+}
